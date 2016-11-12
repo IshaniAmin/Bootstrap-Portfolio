@@ -249,7 +249,7 @@ h1, h2, h3, h4, h5, h6 {
    ========================================================================== */
 
 #headerwrap {
-	background: url(../img/back.jpg) no-repeat center top;
+	background: url(../img/background1.jpg) no-repeat center top;
 	margin-top: 0px;
 	padding-top:120px;
 	text-align:center;
@@ -326,9 +326,11 @@ h1, h2, h3, h4, h5, h6 {
 	background-repeat: no-repeat;
 	height: 450px;
 	position: relative;
+
 }
 .about {
 	background-image: url(../img/about-sep.jpg);
+
 }
 
 /* Portfolio Wrap Section */
